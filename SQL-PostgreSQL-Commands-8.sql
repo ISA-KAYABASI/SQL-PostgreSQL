@@ -21,4 +21,4 @@ UPDATE employee SET name= 'isa' WHERE id = 1;
 
 
 Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
-DELETE FROM employe WHERE id=2;
+DELETE FROM employee WHERE id=2;
